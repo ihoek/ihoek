@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoek)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ihoek/ihoek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
