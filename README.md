@@ -49,10 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihoek&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=80B2E0&height=150&section=footer"/>
